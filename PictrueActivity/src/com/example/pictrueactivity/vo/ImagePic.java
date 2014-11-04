@@ -10,6 +10,14 @@ public class ImagePic implements Serializable{
 		super();
 		this.imageStr = imageStr;
 	}
+	
+	
+	
+	
+	
+	
+	
+	
 
 	public ImagePic() {
 		super();
