@@ -5,6 +5,20 @@ import java.io.Serializable;
 public class ImagePic implements Serializable{
 		
 	private String imageStr;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
 	public ImagePic(String imageStr) {
 		super();
